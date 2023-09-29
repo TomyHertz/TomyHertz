@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin to develop Andoid apps**
 
-- 📫 How to reach me **hertzacevedo@gmail.com**
+- 📫 How to reach me **tomas.hertz.a@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tom%C3%A1s-hertz-3717848a/](https://www.linkedin.com/in/tom%C3%A1s-hertz-3717848a/)
 
