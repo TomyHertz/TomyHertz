@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomas Hertz</h1>
 <h3 align="center">I am studying Informatics Engineering in IPP Chile and I am a Junior FullStack Developer.</h3>
 
-- 🌱 I’m currently learning **Swift in Xcode to develop IOS apps**
+- 🌱 I’m currently learning **Kotlin to develop Andoid apps**
 
 - 📫 How to reach me **hertzacevedo@gmail.com**
 
