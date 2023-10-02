@@ -7,6 +7,12 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tom%C3%A1s-hertz-3717848a/](https://www.linkedin.com/in/tom%C3%A1s-hertz-3717848a/)
 
+---
+
+- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barbaracarvajal&show_icons=true&locale=en&layout=compact" alt="FabianPalmaProccess" />
+</p>
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tomás hertz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomás hertz" height="30" width="40" /></a>
