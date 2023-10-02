@@ -8,8 +8,12 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/tom%C3%A1s-hertz-3717848a/](https://www.linkedin.com/in/tom%C3%A1s-hertz-3717848a/)
 
 ---
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TomyHertz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TomyHertz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ---
 
 <h3 align="left">Connect with me:</h3>
