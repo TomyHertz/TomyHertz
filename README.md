@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomas Hertz</h1>
 <h3 align="center">I am studying Informatics Engineering in IP CIISA and I am a FullStack Developer.</h3>
 
-- 🌱 I’m currently learning **React, NodeJS and Kotlin**
+- 🌱 I’m currently learning **React, NodeJS and PHP**
 
 - 📫 How to reach me **tomas.hertz.a@gmail.com**
 
