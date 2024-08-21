@@ -4,11 +4,11 @@
 
 ###
 
-<h3 align="center">I am studying Informatics Engineering in IP CIISA and I am a FullStack Developer.</h3>
+<h3 align="center">I am currently working on NTT DATA as a SAP ABAP developer.</h3>
 
 ###
 
-<p align="left">-🌱 I’m currently learning React, NodeJS and PHP</p>
+<p align="left">-🌱 I am also learning data science and machine learning.</p>
 
 ###
 
