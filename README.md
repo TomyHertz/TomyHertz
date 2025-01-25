@@ -18,4 +18,3 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/tomas-hertz-3717848a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TomyHertz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?user=https://github.com/TomyHertz&&show_icons=true&theme=dark" /></p>
