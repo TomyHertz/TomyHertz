@@ -17,6 +17,5 @@
 <li><a target="_blank" href="https://github.com/TomyHertz/Wolfram-hypergraphs/blob/FirstAttempts/README.md">Check my last project on Wolfram HyperGraphs</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/tomas-hertz-3717848a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="username=https://github.com/TomyHertz&show_icons=true&locale=en" alt="https://github.com/TomyHertz" /></p>
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?user=https://github.com/TomyHertz&&show_icons=true&theme=dark" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TomyHertz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?user=https://github.com/TomyHertz&&show_icons=true&theme=dark" /></p>
